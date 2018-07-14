@@ -5,7 +5,7 @@
 The goal of @TATE is to make text analysis a bit easier. @TATE is composed of a few functions for text quantification. It uses external norms of valence, arousal, dominance, concreteness, humor, extremity and emotionality. Each function takes a string as input, executes lemmatization of the string and returns a value.
 
 ## Download and Install
-You can install @TATE from @github with:
+You can install TATE with:
 ```{r install}
 # install.packages("devtools")
 devtools::install_github("almogsi/TATE")
