@@ -9,7 +9,4 @@ Description: Text Analysis Tools is designed to produce quantifiable measures of
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-Depends:
-	data.table,
-    stringr,
-    textstem
+Depends: data.table, stringr, textstem
