@@ -14,7 +14,7 @@ funny("I'm sad")
 EvLex("I'm sad")
 ```
 
-##References
+## References
 
 Brysbaert, M., Warriner, A. B., & Kuperman, V. (2014). Concreteness ratings for 40 thousand generally known English word lemmas. Behavior research methods, 46(3), 904-911.
 
