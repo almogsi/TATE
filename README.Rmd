@@ -8,6 +8,9 @@ The goal of TATE is to make text analysis a bit easier. TATE is composed of a fe
 
 ```{r example}
 library(TATE)
+```
+
+```{r example.2, echo=T}
 NoVAD("I'm sad") # Norms of valence, arousal and dominance
 concretness("I'm sad") # Norms of concretness
 funny("I'm sad") # Norms of humor
