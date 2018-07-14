@@ -1,0 +1,15 @@
+Package: TATE
+Type: Package
+Title: Text Analysis Tools for English
+Version: 0.1.0
+Author: Almog Simchon
+Maintainer: Almog Simchon <almog.si@post.bgu.ac.il>
+Description: Text Analysis Tools is designed to produce quantifiable measures of text. 
+    It uses reliable words lists of numerous authors.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends:
+	data.table,
+    stringr,
+    textstem
