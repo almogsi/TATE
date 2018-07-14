@@ -1,6 +1,6 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# TATE: Text Analysis for English
+# TATE: Text Analysis Tools for English
 
 The goal of TATE is to make text analysis a bit easier. TATE is composed of a few functions for text quantification. It uses external norms of valence, arousal, dominance, concreteness, humor, extrimiety and emotionality. The function take strings as input, executes lemmatization of the string and returns a value.
 
