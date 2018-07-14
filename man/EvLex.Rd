@@ -4,7 +4,7 @@
 \title{
 Evaluative Lexicon}
 \description{
-The function takes a string as an argument and returns the mean value of valence, extrimiety and emotionality.
+The function takes a string as an argument and returns the mean value of valence, extremity and emotionality.
 The function executes lemmatization of the string and returns the value of the lemmatized input.
 The value is based on Rocklage & Fazio (2015).
 }
