@@ -1,5 +1,5 @@
 \name{EvLex}
-\alias{Evaluative Lexicon}
+\alias{EvLex}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
 Evaluative Lexicon}
