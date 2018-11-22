@@ -1,7 +1,7 @@
 Package: TATE
 Type: Package
 Title: Text Analysis Tools for English
-Version: 0.1.0
+Version: 0.1.1
 Date: 2018-07-14
 Authors@R: person("Almog", 
          "Simchon", 
