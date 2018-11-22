@@ -44,7 +44,7 @@ If the function returns NaN, it means no input text was found in the word list.
 %% ~~objects to See Also as \code{\link{help}}, ~~~
 }
 \examples{
-funny("I'm sad")
+funny("I'm fun")
 funny
- 1.92
+ 3.36
 }

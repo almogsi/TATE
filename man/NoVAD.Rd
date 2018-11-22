@@ -44,7 +44,7 @@ If the function returns NaN, it means no input text was found in the word list.
 %% ~~objects to See Also as \code{\link{help}}, ~~~
 }
 \examples{
-NoVAD("I'm sad")
+NoVAD("I'm fun")
   Valence   Arousal Dominance
-  3.105     3.410     4.510
+     8.37      6.32      7.04
   }

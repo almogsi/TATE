@@ -43,8 +43,8 @@ Almog Simchon
 %% ~~objects to See Also as \code{\link{help}}, ~~~
 }
 \examples{
-EvLex("I'm sad")
+EvLex("I'm fun")
      Valence    Extremity Emotionality
-        2.00         2.50         6.88
+        7.84         3.34         5.63
         }
 

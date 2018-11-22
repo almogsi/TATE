@@ -46,6 +46,6 @@ If the function returns NaN, it means no input text was found in the word list.
 \examples{
 concretness("I'm sad")
 Concretness
-      3.765
+      1.97
 }
 
