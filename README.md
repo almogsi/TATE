@@ -15,9 +15,6 @@ You can install TATE with:
     # install.packages("devtools")
     devtools::install_github("almogsi/TATE")
 
-    ## Skipping install of 'TATE' from a github remote, the SHA1 (ab62ff89) has not changed since last install.
-    ##   Use `force = TRUE` to force installation
-
 Examples
 --------
 
