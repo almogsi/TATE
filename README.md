@@ -20,16 +20,6 @@ Examples
 
     library(TATE)
 
-    ## Loading required package: data.table
-
-    ## Loading required package: stringr
-
-    ## Loading required package: textstem
-
-    ## Loading required package: koRpus.lang.en
-
-    ## Loading required package: koRpus
-
     NoVAD("I'm sad") # Norms of valence, arousal and dominance
 
     ##   Valence   Arousal Dominance 
