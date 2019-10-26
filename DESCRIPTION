@@ -1,8 +1,8 @@
 Package: TATE
 Type: Package
 Title: Text Analysis Tools for English
-Version: 0.2.0
-Date: 2018-11-22
+Version: 0.3.0
+Date: 2019-10-26
 Authors@R: person("Almog", 
          "Simchon", 
          email = "almog.si@gmail.com",
@@ -13,6 +13,5 @@ License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Depends:
-	data.table, 
 	stringr, 
 	textstem
